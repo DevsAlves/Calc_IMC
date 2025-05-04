@@ -155,3 +155,21 @@ button:hover {
 .high {
     color: #db1912;
 }
+
+
+
+/* Responsividade */
+/* ─── 📱 Mobile ─────────────────────────────────────────*/
+@media (min-width:250px) and (max-width: 599px) {
+    .container {
+        min-width: 300px; 
+        width: 300px;
+        padding: 1.2rem;
+    }
+
+
+    button {
+        padding: 0.5rem 1rem;
+    }
+
+}

@@ -6,6 +6,7 @@
 
 ## 📌 Funcionalidades
 - 🔹 Interativo
+- 🔹 Responsividade
 
 ## 🚀 Tecnologias Utilizadas
 - HTML
